@@ -1,2 +1,1 @@
-0x00. C - Hello, World
-C
+name of a readme file
